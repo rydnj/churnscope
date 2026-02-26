@@ -1,0 +1,5 @@
+cluster_id,customer_count,avg_recency,avg_frequency,avg_monetary,median_monetary,avg_rfm_total,segment_name
+0,1233,26.08,3.01,827.85,706.02,9.77,Promising New
+1,1108,23.99,19.95,9433.3,4988.54,14.18,Champions
+2,2049,388.83,1.41,326.78,278.34,4.96,Lost Low-Value
+3,1471,207.41,5.4,1911.22,1507.17,10.08,At-Risk Big Spenders

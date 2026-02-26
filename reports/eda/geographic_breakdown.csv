@@ -1,0 +1,42 @@
+country,region,customers,orders,revenue,revenue_per_customer
+United Kingdom,UK,5363,39891,12549510.88,2340.02
+EIRE,Europe,5,673,507566.09,101513.22
+Netherlands,Europe,23,228,410205.73,17835.03
+Germany,Europe,107,1043,377484.73,3527.89
+France,Europe,92,696,288596.29,3136.92
+Australia,Asia Pacific,14,87,126609.76,9043.55
+Switzerland,Europe,21,105,91556.14,4359.82
+Spain,Europe,39,170,79845.5,2047.32
+Sweden,Europe,19,113,62007.22,3263.54
+Belgium,Europe,27,188,59022.76,2186.03
+Portugal,Europe,24,106,46667.24,1944.47
+Channel Islands,Europe,13,75,41616.06,3201.24
+Denmark,Europe,11,64,38720.47,3520.04
+Norway,Europe,12,41,38256.32,3188.03
+Japan,Asia Pacific,10,53,29936.95,2993.7
+Italy,Europe,17,81,28722.61,1689.57
+Finland,Europe,15,63,25108.18,1673.88
+Austria,Europe,12,46,22795.53,1899.63
+Cyprus,Europe,9,40,21171.22,2352.36
+Greece,Europe,5,20,18711.19,3742.24
+Singapore,Asia Pacific,1,8,13054.76,13054.76
+Israel,Middle East,4,8,10415.24,2603.81
+Poland,Europe,6,38,10214.29,1702.38
+United Arab Emirates,Middle East,4,12,8807.23,2201.81
+Unspecified,Unknown,7,18,8604.95,1229.28
+USA,North America,8,21,7697.61,962.2
+Lithuania,Europe,1,6,4892.68,4892.68
+Iceland,Europe,1,8,4775.93,4775.93
+Malta,Europe,2,11,4719.94,2359.97
+Canada,North America,5,7,3864.38,772.88
+Thailand,Asia Pacific,1,2,2371.46,2371.46
+RSA,Africa,2,2,1933.74,966.87
+Lebanon,Middle East,1,1,1693.88,1693.88
+Brazil,South America,2,2,1411.87,705.94
+Bahrain,Middle East,2,4,1354.37,677.19
+European Community,Europe,1,4,1159.25,1159.25
+Korea,Asia Pacific,2,3,1118.51,559.26
+Czech Republic,Europe,1,4,786.74,786.74
+West Indies,Other,1,1,536.41,536.41
+Saudi Arabia,Middle East,1,2,145.92,145.92
+Nigeria,Africa,1,2,140.39,140.39
